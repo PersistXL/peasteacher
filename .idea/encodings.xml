@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/peas-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/peas-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/peas-common-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/peas-esb-hsf-sdk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/peas-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/peas-service" charset="UTF-8" />
+  </component>
+</project>
